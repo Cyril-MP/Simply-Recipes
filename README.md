@@ -6,11 +6,11 @@
 **Live preview: [click me](https://fblcak.github.io/Simply-Recipes/)**
 
 
-A `HTML, CSS,BOOTSTRAP,JAVASCRIPT` Project. Made with ♥ . There will be 5 pages in the website (HomePage,AboutPage,TagsPage,RecipesPage,ContactPage). In this project we gonna learn how we can create a website using simple `HTML, CSS & Boostrap`. The main purpose of the project is to get more used to with HTML, CSS & Boostrap.
+A `HTML, CSS,BOOTSTRAP,JAVASCRIPT` Project. Made with ♥ . There will be 5 pages in the website (HomePage,AboutPage,TagsPage,RecipesPage,ContactPage). In this project we gonna learn how we can create a website using simple `HTML, CSS & Boostrap`. The main purpose of the project is to get more used to  HTML, CSS & Boostrap.
 
 ## What we are going to learn
 
-- HTML, CSS ,BOOTSTRAP & JAVASCRIPT 
+- HTML, CSS & BOOTSTRAP 
 
 ## Starter files
 
@@ -18,7 +18,7 @@ You can find all the starter files in `starter_files` branch. You can to go to t
 
 ## Requirements
 
-- Basic HTML, CSS ,BOOTSTRAP & JAVASCRIPT 
+- Basic HTML, CSS & BOOTSTRAP 
 
 ## Developer team of Simply-Recipes
 
@@ -32,4 +32,4 @@ You can find all the starter files in `starter_files` branch. You can to go to t
 
 ### Who the project is for?
 
-The project is for anyone who wanna get more skilled in HTML, CSS ,BOOTSTRAP & JAVASCRIPT 
+The project is for anyone who wanna get more skilled in HTML, CSS & BOOTSTRAP 
